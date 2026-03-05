@@ -34,13 +34,9 @@ The dataset includes:
 ##  Screenshots
 
 
-![Overview](screenshots/overview.png)
-
-
-![Prediction](screenshots/predict.png)
-
-
-![High Risk](screenshots/high_risk.png)
+![Overview](graph1&2__.png)
+![Graph](graph1.2_.png)
+![Table](table_.png)
 
 ##  Key Insights
 - **Month‑to‑month contracts** are the strongest predictor of churn (43% churn rate vs. 3% for two‑year contracts).
@@ -73,4 +69,5 @@ The dataset includes:
 Zoe John
 
 Have questions? Feel free to reach out!
+
 
